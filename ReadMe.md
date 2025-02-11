@@ -18,7 +18,7 @@ Finance AI Agent is an intelligent financial assistant that fetches the latest a
 ## 🛠️ Installation
 ### 1️⃣ Clone the Repository
 ```sh
-$ git clone https://github.com/your-username/finance-ai-agent.git
+$ git clone https://github.com/the-madhankumar/FinanceAgent.git
 $ cd finance-ai-agent
 ```
 ### 2️⃣ Create a Virtual Environment
@@ -72,12 +72,8 @@ If you face errors related to missing packages, try reinstalling:
 $ pip install -r requirements.txt --force-reinstall
 ```
 
-## 🎨 Demo
-If you have screenshots or a demo video, add them here!
-
 ## 👨‍💻 Author & Contributors
-- **Your Name** - Project Lead
-- **Contributors** - Add contributors' names if applicable
+- **MADHAN KUMAR M** - Project Lead
 
 ## 📜 License
 This project is licensed under [MIT License](LICENSE).
